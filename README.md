@@ -5,6 +5,7 @@ An easy emoji plugin for vim written in vim9script.
 ![demo](https://github.com/wolandark/vim-ez-emoji/assets/107309764/39010048-2573-417d-960c-f089fea5bef7)
 
 # Installation
+Use your favorite package manager or install using Vim packages.
 
 ```
 git clone https://github.com/wolandark/vim-ez-emoji.git ~/.vim/pack/plugins/start/vim-ez-emoji/
