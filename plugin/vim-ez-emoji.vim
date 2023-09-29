@@ -1,9 +1,3 @@
-# vim-ez-emoji
-# An easy way to use emojis in vim
-#
-# By Wolandark
-# https://github.com/wolandark/vim-ez-emoji
-
 vim9script
 
 def EzEmoji()
