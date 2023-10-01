@@ -104,6 +104,8 @@ def EzEmoji()
  iabbr circle: ⭕
  iabbr tik: ✅
  iabbr cross: ❌
+ iabbr plus: ➕
+ iabbr minus: ➖
  iabbr copyright: ©
  iabbr tm: ™
  iabbr registered: ®
@@ -127,8 +129,8 @@ def EzEmoji()
  iabbr diamondb: 🔷
  iabbr sdiamondb: 🔹
  iabbr odiamondo: 🔸
- iabbr traingleu: 🔺
- iabbr traingled: 🔻
+ iabbr triangleu: 🔺
+ iabbr triangled: 🔻
  iabbr flag: 🚩
  iabbr soundoff: 🔇
  iabbr speaker: 🔈
@@ -187,7 +189,6 @@ def EzEmoji()
  iabbr keyb: ⌨️
  iabbr rainbow: 🌈
  iabbr docker: 🐳
- iabbr circle: 🔵
  iabbr light: 💡
  iabbr folder: 📁
  iabbr beer: 🍺
@@ -239,7 +240,7 @@ def ListEmoji()
  	echo "| bally            | 🟡          | ballg            | 🟢          | ballb            | 🔵          |"
  	echo "| cuber            | 🟥          | cubey            | 🟨          | cubeg            | 🟩          |"
  	echo "| diamondo         | 🔶          | diamondb         | 🔷          | sdiamondb        | 🔹          |"
- 	echo "| odiamondo        | 🔸          | traingleu        | 🔺          | traingled        | 🔻          |"
+ 	echo "| odiamondo        | 🔸          | triangleu        | 🔺          | triangled        | 🔻          |"
  	echo "| flag             | 🚩          | soundoff         | 🔇          | speaker          | 🔈          |"
  	echo "| gem              | 💎          | clubs            | ♣           | diamond          | ♦           |"
  	echo "| spades           | ♠           | heartcards       | ♥           | star             | ⭐          |"
@@ -259,9 +260,9 @@ def ListEmoji()
  	echo "| right            | ➡️           | key              | 🔑          | poop             | 💩          |"
  	echo "| cake             | 🎂          | python           | 🐍          | trophy           | 🏆          |"
  	echo "| clip             | 📎          | keyb             | ⌨️           | rainbow          | 🌈          |"
- 	echo "| docker           | 🐳          | circle           | 🔵          | light            | 💡          |"
+ 	echo "| docker           | 🐳          | minus 			  | ➖ 	        | light            | 💡          |"
  	echo "| folder           | 📁          | beer             | 🍺          | wine             | 🍷          |"
- 	echo "| cocktail         | 🍸          | water            | 💧          |                  |             |"
+ 	echo "| cocktail         | 🍸          | water            | 💧          | plus             | ➕          |"
 enddef
 defcompile
 
