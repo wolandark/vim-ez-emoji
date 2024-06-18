@@ -11,6 +11,11 @@ Use your favorite package manager or install using Vim packages.
 git clone https://github.com/wolandark/vim-ez-emoji.git ~/.vim/pack/plugins/start/vim-ez-emoji/
 ```
 
+## VimPlug
+```
+Plug 'wolandark/vim-ez-emoji'
+```
+
 # Usage
 Use `:ListEmoji` to get a list of the Emojis and their names.
 
