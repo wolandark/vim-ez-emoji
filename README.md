@@ -1,6 +1,6 @@
 # vim-ez-emoji
 An easy emoji plugin for vim written in vim9script.
-**Requiers vim9**
+**Requires vim9**
 
 ![demo](https://github.com/wolandark/vim-ez-emoji/assets/107309764/39010048-2573-417d-960c-f089fea5bef7)
 
